@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/QGISSolr" >
+        <file>icon.png</file>
+        <file>dialoglogo.png</file>
+    </qresource>
+</RCC>
